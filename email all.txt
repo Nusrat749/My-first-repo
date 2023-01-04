@@ -1,0 +1,15 @@
+1.tabassummahnurtafida@gmail.com            pass:@misonlife
+2.nusratnasa749@gmail.com                   pass:GoodGood123
+3.misongetnusrat@gmail.com                  pass:NusratMison@
+	
+github account:	misongetnusrat@gmail.com      pass:Mison749Nusrat  username:Nusrat749
+
+
+@!nusrat#*$&WHO
+
+echo "# My-first-repo" >> README.md
+git init
+git add .
+git commit -m "first html"
+git push
+git remote set-url(url wrong dekhale e comment  use korte)
